@@ -1,4 +1,4 @@
-# PHP Chatbox Widget - Telegram Real-Time Web Chat Widget
+# PHP Chatbox Widget - Telegram Web Chat Widget
 
 ![PHP Version](https://img.shields.io/badge/php-8.4%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
